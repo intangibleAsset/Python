@@ -4,8 +4,8 @@ import utils
 import datetime
 import time
 
-SCRAPED_DATA = "/home/anon/Scripts/Covid/data" # the scraped data
-ACCESSED_TIME_FILE = "/home/anon/Scripts/Covid/last_accessed" # file containing datetime for last time data scraped
+SCRAPED_DATA = "/home/anon/Python/Covid/data" # the scraped data
+ACCESSED_TIME_FILE = "/home/anon/Python/Covid/last_accessed" # file containing datetime for last time data scraped
 
 if utils.checked_in_last_hour(ACCESSED_TIME_FILE):
     print(utils.read_from_file(SCRAPED_DATA))
