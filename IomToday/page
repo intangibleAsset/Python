@@ -1,0 +1,2772 @@
+
+
+	<script src="https://cdn.conversant.mgr.consensu.org/gdpr/cmp/gdpr-cmp-stub.js"></script>
+	<script> var cnvr_launcher_options={lid:233} </script>
+	<script src="https://secure.cdn.fastclick.net/js/cnvr-launcher/latest/launcher-stub.min.js"></script>
+
+
+
+
+<!--[if lte IE 8]><html class="ie-old"><![endif]-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script type="text/javascript" src="/flintcfscripts/scripts/cfform.js"></script>
+<script type="text/javascript" src="/flintcfscripts/scripts/masks.js"></script>
+
+
+
+
+
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+
+
+<meta charset="utf-8">
+
+	
+		<title>News and Sport | </title>
+		<meta name="description" content="News and Sport for ">	
+
+
+
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/coreWebFiles/assets/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/coreWebFiles/assets/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/coreWebFiles/assets/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/coreWebFiles/assets/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/coreWebFiles/assets/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/coreWebFiles/assets/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/coreWebFiles/assets/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/coreWebFiles/assets/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/coreWebFiles/assets/favicon/apple-touch-icon-180x180.png">
+
+<link rel="icon" type="image/png" href="/coreWebFiles/assets/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/coreWebFiles/assets/favicon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/coreWebFiles/assets/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/coreWebFiles/assets/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/coreWebFiles/assets/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/coreWebFiles/assets/favicon/manifest.json">
+<link rel="shortcut icon" href="/coreWebFiles/assets/favicon/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffffff"/>
+<meta name="msapplication-square70x70logo" content="/coreWebFiles/assets/favicon/tiny.png"/>
+<meta name="msapplication-square150x150logo" content="/coreWebFiles/assets/favicon/square.png"/>
+<meta name="msapplication-wide310x150logo" content="/coreWebFiles/assets/favicon/wide.png"/>
+<meta name="msapplication-square310x310logo" content="/coreWebFiles/assets/favicon/large.png"/>
+
+<link rel="alternate" href="http://www.iomtoday.co.im" hreflang="en-gb" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=9"><!-- must be first meta tag for IE9 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1"> old -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+
+
+
+<style>		
+		
+/* temp fix for missing masterheads */
+	.mh-temp-fix:link,
+	.mh-temp-fix:visited {
+		color: white;
+		font-size: 1.5em;
+		font-weight: 800;
+}
+</style>
+
+
+
+
+	<link rel="stylesheet" href="/coreWebFiles/assets/css/pikaday/pikaday.css">
+    
+
+
+
+
+
+
+<link rel='stylesheet' href='/coreWebFiles/assets/cssV2/compiled/large.css' />
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src='/coreWebFiles/assets/js/dropDownToggle.min.js'></script>
+
+	<script src='/coreWebFiles/assets/js/headerScroll.min.js'></script>
+
+
+		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-85994090-1', 'auto', {'allowLinker': true});
+		  ga('require', 'linker');
+
+	  	  ga('linker:autoLink', [
+		 	 'isleofmanindependent.co.uk',
+		 	 'iomonline.co.uk',
+			 'iomonline.com',
+			 'iomtoday.co.uk',
+			 'newsiom.co.uk',
+			 'isleofmancourier.co.uk',
+			 'isleofmanexaminer.co.uk',
+			 'isleofmantoday.co.uk',
+			 'iomonline.co.im',
+			 'isleofmantoday.co.im',
+			 'motors.co.im',
+			 'motorstoday.co.im',
+			 'newsiom.co.im',
+			 'propertytoday.co.im',
+			 'iomtoday.co.im',
+			 'iommedia.im',
+			 'preideinmannawards.com',
+		 	 'iommedia.co.im'] );
+
+	  	  ga('send', 'pageview');
+	  	  ga('require', 'displayfeatures');
+
+		</script>
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "22002390" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=22002390&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+
+
+
+
+
+	
+	
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async="async" src="//js-sec.indexww.com/ht/p/185246-170899476489144.js"></script>
+
+
+
+
+	<script>
+		window.googletag = window.googletag || {cmd: []};
+		googletag.cmd.push(function() {
+
+	    // news area
+
+	
+	    googletag.defineSlot('/154725070/iomtoday/news', [[970, 250],[728, 90]], 'div-gpt-ad-1570714375015-1')
+	    .addService(googletag.pubads())
+	    .setTargeting("pos", "billboard");
+	
+
+	    googletag.defineSlot('/154725070/iomtoday/news', [[300, 600],[300, 250]], 'div-gpt-ad-1570714375015-2')
+	    .addService(googletag.pubads())
+	    .setTargeting("pos", "mpu1");
+
+	    googletag.defineSlot('/154725070/iomtoday/news', [[300, 250]], 'div-gpt-ad-1570714375015-3')
+	    .addService(googletag.pubads())
+	    .setTargeting("pos", "mpu2");
+
+	    googletag.defineSlot('/154725070/iomtoday/news', [[300, 250]], 'div-gpt-ad-1570714375015-4')
+	    .addService(googletag.pubads())
+	    .setTargeting("pos", "mpu3");
+
+	
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+		});
+	</script>
+
+
+
+	
+
+
+	
+	<script src="https://tags.crwdcntrl.net/c/4777/cc.js?ns=_cc4777" id="LOTCC_4777"></script>
+	<script>
+	_cc4777.bcp();
+	</script>
+
+	<script type="text/javascript">
+	var cc_client_id= 4777;
+	document.write('<scr'+'ipt type="text/javascript" src="https://ad.crwdcntrl.net/5/c='+cc_client_id.toString()+'/pe=y/callback=processauds"></scr'+'ipt>');
+	var adtechCCvals = "";
+	function processauds(adtechccauds) {
+	if (typeof(adtechccauds) != 'undefined'){
+	for (var cci = 0; cci < adtechccauds.Profile.Audiences.Audience.length;cci++){
+	if (cci > 0) adtechCCvals += ":";
+	adtechCCvals +=adtechccauds.Profile.Audiences.Audience[cci].abbr;
+	}
+	}
+	}
+	</script>
+	
+
+
+
+
+	
+
+	
+	
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({article:'auto'});
+		!function (e, f, u) {
+		e.async = 1;
+		e.src = u;
+		f.parentNode.insertBefore(e, f);
+		}(document.createElement('script'),
+		document.getElementsByTagName('script')[0],
+		'//cdn.taboola.com/libtrc/mediaforceeurope-network/loader.js');
+	</script>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['mainSearchEntry']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element mainSearchEntry required check
+        if( !_CF_hasValue(_CF_this['mainSearchEntry'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "mainSearchEntry", _CF_this['mainSearchEntry'].value, "Error in mainSearchEntry text.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['mainSearchEntry']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element mainSearchEntry required check
+        if( !_CF_hasValue(_CF_this['mainSearchEntry'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "mainSearchEntry", _CF_this['mainSearchEntry'].value, "Error in mainSearchEntry text.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+
+<body>
+
+
+
+	
+	<div class="block1 ad-leaderboard">
+						
+			
+
+	    <div id="div-gpt-ad-1570714375015-1">
+	        <script>
+	        googletag.cmd.push(function() {
+	        googletag.display("div-gpt-ad-1570714375015-1");
+	        });
+	        </script>
+	    </div>
+
+	
+					  
+	</div>
+
+
+
+	
+
+	
+<header id="block2" class="header u-clearfix brand-red">
+	<div class="container u-clearfix">
+
+
+
+
+
+	
+<div class="header-links__3rd ">
+	
+	
+	
+		<a href="/jobs.cfm" target="_blank" title="Jobs">Jobs</a>
+	
+		<a href="http://audioboom.com/channel/manxfootball" target="_blank" title="Manx Football Podcast">Manx Football Podcast</a>
+	
+		<a href="/archive.cfm?sectionIs=News&cat=Property" target="_blank" title="Property">Property</a>
+	
+		<a href="http://iomtoday.newsprints.co.uk" target="_blank" title="Buy Photos">Buy Photos</a>
+	
+		<a href="https://www.legacy.com/obituaries/iomtoday-uk" target="_blank" title="Family Notices">Family Notices</a>
+	
+		<a href="http://www.excellence-awards.im" target="_blank" title="Awards for Excellence ">Awards for Excellence </a>
+	
+		
+</div>
+		
+
+
+
+
+	<div class="header-brand">	
+	
+		
+		
+		<img alt="tindle newspapers crest" class="header-brand__masterhead header-brand__masterhead--crest" src="/coreWebFiles/assets/img/tindle_newspaper_crest.png">
+		
+		
+		
+		
+		
+
+		<a href="http://www.iomtoday.co.im/index.cfm?id=masterheadClick">
+			<img class="header-brand__masterhead" src="/coreWebFiles/assets/titles/Isle of Man.png" alt="Isle of Man Newspaper">
+		</a>
+
+
+
+		
+		
+	
+	</div>
+	
+
+
+
+<div class="header-links">
+	
+
+	
+		
+	
+
+		
+
+		
+
+		<div class="header-links__search">
+
+
+				<form name="form" id="form" action="search.cfm?sectionIs=search" method="post" class="header-search" onsubmit="return _CF_checkform(this)">
+					<fieldset>
+						<input name="mainSearchEntry" id="mainSearchEntry"  type="text" maxlength="15"  class="header-search__input u-border-box"  placeholder="Search"  /><input name="main-search__button" id="main-search__button"  type="submit" value="Go" class="header-search__submit"  />
+					</fieldset>
+				</form>
+
+				
+				
+		</div>	
+
+	
+	
+	
+		
+		<div id="toggle-nav-full-menu" class="header-links__menu">
+			<a href="#" onClick="return false;"></a>
+			<span class="header-links__word">more</span>
+		</div>
+	
+	</div>
+
+
+	
+	</div>
+</header>	
+
+
+
+
+
+
+
+
+
+	
+
+
+<div id="toggle-nav-full-menu--fx" class="nav-full-menu u-border-box u-clearfix brand-blue">
+	<div class="container u-clearfix">
+	
+		<div class="nav-full-menu__primary"><!-- main links -->
+		
+		
+			
+		
+	
+			<ul>
+				<li><a href="/archive.cfm?sectionIs=news">news</a></li>
+				
+				<li><a href="/archive.cfm?sectionIs=sport">sport</a></li>
+				
+					
+				<li><a href="/archive.cfm?sectionIs=News&cat=Property">Property</a></li><li><a href="/archive.cfm?sectionIs=News&cat=Motors">Motors</a></li>
+				<li><a href="/jobs.cfm">Jobs</a></li>
+				
+						
+					
+				
+						
+				<li><a href="/advertise.cfm">advertise</a></li>
+				
+				<li><a href="/subscribe.cfm">Digital Editions</a></li>
+						
+			</ul>	
+		</div>	
+		
+		
+					
+		<div class="nav-full-menu__secondary u-border-box">
+			
+				
+			
+						
+					
+
+					<span class="nav-full-menu__title">News</span>
+
+						<ul class="nav-full-menu__2cols">
+						
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Arts">Arts</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Business">Business</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Charity">Charity</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Community News">Community News</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Crime">Crime</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=East">East</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Education">Education</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Emergency Services">Emergency Services</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Entertainment">Entertainment</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Environment">Environment</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Events">Events</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Farming">Farming</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Feature">Feature</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Health">Health</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Isle of Man TT Races">Isle of Man TT Races</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Law">Law</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Local People">Local People</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Motors">Motors</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=North">North</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Other News">Other News</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Planning">Planning</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Politics">Politics</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Promotion">Promotion</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Property">Property</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=South">South</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Technology">Technology</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Transport">Transport</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=Utilities">Utilities</a></li>
+							
+							<li><a href="/archive.cfm?sectionIs=News&cat=West">West</a></li>
+							
+						
+						</ul>
+							
+
+
+						
+		</div>
+		
+		
+		<div class="nav-full-menu__secondary u-border-box">
+		
+		
+			
+			
+
+			<span class="nav-full-menu__title">Sports</span>
+			<ul class="nav-full-menu__2cols">
+				
+			
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Athletics">Athletics</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Basketball">Basketball</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Bowls">Bowls</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Boxing">Boxing</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Cricket">Cricket</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Cycling">Cycling</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Darts">Darts</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Equine">Equine</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Football">Football</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Golf">Golf</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Hockey">Hockey</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Island Games">Island Games</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Isle of Man TT Races">Isle of Man TT Races</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Martial Arts">Martial Arts</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Motorsport">Motorsport</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Netball">Netball</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Racquet Sports">Racquet Sports</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Rugby">Rugby</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Sailing">Sailing</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Snooker">Snooker</a></li>
+			
+			<li><a href="/archive.cfm?sectionIs=Sport&cat=Swimming">Swimming</a></li>
+			
+			
+			
+			</ul>
+				
+			
+				
+		</div>
+		
+		<div class="nav-full-menu__secondary u-border-box">
+			
+			<span class="nav-full-menu__title">Connect</span>
+				<ul>
+					
+						
+					
+					
+						
+					
+						<li><a href="https://twitter.com/iomnewspapers" target="_blank">Twitter</a></li>
+					
+						<li><a href="https://www.facebook.com/iomnewspapers/" target="_blank">Facebook</a></li>
+					
+				</ul>
+			
+	
+							
+						<span class="nav-full-menu__title">Your Areas</span>
+							<ul>
+
+								<li><a href="/archive.cfm?sectionIs=News&cat=North" title="Isle of Man - North">Isle of Man - North</a></li>
+								<li><a href="/archive.cfm?sectionIs=News&cat=East" title="Isle of Man - East">Isle of Man - East</a></li>
+								<li><a href="/archive.cfm?sectionIs=News&cat=South" title="Isle of Man - South">Isle of Man - South</a></li>
+								<li><a href="/archive.cfm?sectionIs=News&cat=West" title="Isle of Man - West">Isle of Man - West</a></li>
+
+							</ul>	
+					
+
+			
+					
+		</div>
+				
+		<div class="nav-full-menu__secondary u-border-box">	
+		
+			<span class="nav-full-menu__title">Information</span>
+				<ul>
+					<li><a href="/advertise.cfm">Advertise</a></li>
+					<li><a href="/subscribe.cfm">Subscribe</a></li>
+					<li><a href="/contact.cfm">Contact</a></li>
+					<li><a href="/your-story.cfm">Submit Your Story</a></li>
+					<li><a href="/about.cfm">About</a></li>
+					<li><a href="/terms.cfm">Terms &amp; Conditions</a></li>
+					<li><a href="/privacy.cfm">Privacy Policy</a></li>
+					<li><a href="/complaints.cfm">Complaints</a></li>
+				</ul>
+					
+			<span class="nav-full-menu__title">Services</span>
+			
+				
+			
+				<ul>
+					
+						<li><a href="/jobs.cfm" target="_blank" title="Jobs">Jobs</a></li>
+					
+						<li><a href="http://audioboom.com/channel/manxfootball" target="_blank" title="Manx Football Podcast">Manx Football Podcast</a></li>
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Property" target="_blank" title="Property">Property</a></li>
+					
+						<li><a href="http://iomtoday.newsprints.co.uk" target="_blank" title="Buy Photos">Buy Photos</a></li>
+					
+						<li><a href="https://www.legacy.com/obituaries/iomtoday-uk" target="_blank" title="Family Notices">Family Notices</a></li>
+					
+						<li><a href="http://www.excellence-awards.im" target="_blank" title="Awards for Excellence ">Awards for Excellence </a></li>
+					
+					
+				</ul>		
+		</div>	
+		
+			
+	</div>
+</div>	
+
+
+
+
+
+
+
+
+	
+
+<nav id="block3" class="nav-desktop u-clearfix bg-base-lt-gray border-bottom">
+<div class="container">
+		<ul class="nav-desktop__menu">
+						<li><a href="/index.cfm?id=homeClick">home</a></li>
+						
+						<li><a href="/archive.cfm?sectionIs=news">news</a></li>
+																
+												
+						<li><a href="/archive.cfm?sectionIs=sport">sport</a></li>				
+						
+							
+						
+						
+						
+						
+						<li><a href="/jobs.cfm">Jobs</a></li>
+						<li><a href="/archive.cfm?sectionIs=News&cat=Property">Property</a></li><li><a href="/archive.cfm?sectionIs=News&cat=Motors">Motors</a></li>
+						
+					
+						
+						<li><a href="/contact.cfm">Contact Us</a></li>
+						
+						<li><a href="/subscribe.cfm">Digital Editions</a></li>
+
+					
+						
+							
+						<li><a class="locate-icon locate-icon--location" href="#">Your Areas &#9662;</a>
+							<ul>
+
+								<li><a href="/archive.cfm?sectionIs=News&cat=North" title="Isle of Man - North">Isle of Man - North</a></li>
+								<li><a href="/archive.cfm?sectionIs=News&cat=East" title="Isle of Man - East">Isle of Man - East</a></li>
+								<li><a href="/archive.cfm?sectionIs=News&cat=South" title="Isle of Man - South">Isle of Man - South</a></li>
+								<li><a href="/archive.cfm?sectionIs=News&cat=West" title="Isle of Man - West">Isle of Man - West</a></li>
+
+							</ul>	
+						</li>
+
+						
+				
+								
+						<div class="nav-right">					
+						
+							
+						
+						
+						
+							<li><a class="locate-icon locate-icon--twitter" href="https://twitter.com/iomnewspapers" target="_blank">&nbsp;</a></li>
+						
+							<li><a class="locate-icon locate-icon--facebook" href="https://www.facebook.com/iomnewspapers/" target="_blank">&nbsp;</a></li>
+						
+
+						</div>
+												
+		</ul>	
+		
+		
+	</div>
+</nav>
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div id="block4" class="container">
+    
+        
+    
+        
+        
+<h5 class="header-m">News</h5>
+
+
+<div class="b-content u-clearfix"> 
+	
+<section class="b-content__main">
+
+
+<div>
+
+
+
+	
+
+
+<div class="list-box u-clearfix">
+	
+	
+<ul class="list-cats u-clearfix">
+	<li><a href="archive.cfm?sectionIs=News">All</a></li>
+	<!-- categorey loop -->
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Arts">Arts</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Business">Business</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Charity">Charity</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Community News">Community News</a></li>
+	
+		<li class="active"><a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=East">East</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Education">Education</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Emergency Services">Emergency Services</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Entertainment">Entertainment</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Environment">Environment</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Events">Events</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Farming">Farming</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Feature">Feature</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Health">Health</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Isle of Man TT Races">Isle of Man TT Races</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Law">Law</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Local People">Local People</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Motors">Motors</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=North">North</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Other News">Other News</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Planning">Planning</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Politics">Politics</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Promotion">Promotion</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Property">Property</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=South">South</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Technology">Technology</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Transport">Transport</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=Utilities">Utilities</a></li>
+	
+		<li ><a href="archive.cfm?sectionIs=News&cat=West">West</a></li>
+	
+	<!--/categorey loop -->
+</ul>
+
+
+
+
+
+</div>
+
+
+
+
+	
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- list reults loop all other results show 20 results -->
+
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57632&headline=Fined £900 for having £28 in cannabis&sectionIs=News&searchyear=2020" title="Fined £900 for having £28 in cannabis">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Fined £900 for having £28 in cannabis" src="/images/news/2020/88636283%5F89261227%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57632&headline=Fined%20%C2%A3900%20for%20having%20%C2%A328%20in%20cannabis&sectionIs=News&searchyear=2020&cat=Crime" title="Fined £900 for having £28 in cannabis">Fined £900 for having £28 in cannabis</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-04">Friday, 04 September 2020</time> 
+		
+	
+			By <a href="mailto:newsdesk@iomtoday.co.im?subject=Article: Fined £900 for having £28 in cannabis">A Reporter</a>
+		
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57644&headline=Paedophile Cover jailed&sectionIs=News&searchyear=2020" title="Paedophile Cover jailed">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Paedophile Cover jailed" src="/images/news/2020/89272780%5F89273814%5FCover%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57644&headline=Paedophile%20Cover%20jailed&sectionIs=News&searchyear=2020&cat=Crime" title="Paedophile Cover jailed">Paedophile Cover jailed</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-03">Thursday, 03 September 2020</time> 
+		
+	
+			By <a href="mailto:sam.turton@iomtoday.co.im?subject=Article: Paedophile Cover jailed">Sam Turton</a>
+		
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57573&headline=Man who headbutted a policeman is sentenced&sectionIs=News&searchyear=2020" title="Man who headbutted a policeman is sentenced">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Man who headbutted a policeman is sentenced" src="/images/news/2020/86012588%5F89261336%5Fzziomram%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57573&headline=Man%20who%20headbutted%20a%20policeman%20is%20sentenced&sectionIs=News&searchyear=2020&cat=Crime" title="Man who headbutted a policeman is sentenced">Man who headbutted a policeman is sentenced</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-03">Thursday, 03 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57555&headline=Mum and son: We've not been involved in dealing drugs&sectionIs=News&searchyear=2020" title="Mum and son: We've not been involved in dealing drugs">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Mum and son: We've not been involved in dealing drugs" src="/images/news/2020/88636283%5F89261254%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57555&headline=Mum%20and%20son%3A%20We%27ve%20not%20been%20involved%20in%20dealing%20drugs&sectionIs=News&searchyear=2020&cat=Crime" title="Mum and son: We've not been involved in dealing drugs">Mum and son: We've not been involved in dealing drugs</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-03">Thursday, 03 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57568&headline=Man refused to get up off bus floor&sectionIs=News&searchyear=2020" title="Man refused to get up off bus floor">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Man refused to get up off bus floor" src="/images/news/2020/88636283%5F89261284%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57568&headline=Man%20refused%20to%20get%20up%20off%20bus%20floor&sectionIs=News&searchyear=2020&cat=Crime" title="Man refused to get up off bus floor">Man refused to get up off bus floor</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-02">Wednesday, 02 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57570&headline=Offender told police: 'I earn more than all of you together.  I'll see you again.'&sectionIs=News&searchyear=2020" title="Offender told police: 'I earn more than all of you together.  I'll see you again.'">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Offender told police: 'I earn more than all of you together.  I'll see you again.'" src="/images/news/2020/88636291%5F89261289%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57570&headline=Offender%20told%20police%3A%20%27I%20earn%20more%20than%20all%20of%20you%20together%2E%20%20I%27ll%20see%20you%20again%2E%27&sectionIs=News&searchyear=2020&cat=Crime" title="Offender told police: 'I earn more than all of you together.  I'll see you again.'">Offender told police: 'I earn more than all of you together.  I'll see you again.'</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-02">Wednesday, 02 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57571&headline=Man denies importing drug&sectionIs=News&searchyear=2020" title="Man denies importing drug">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Man denies importing drug" src="/images/news/2020/88636281%5F89261456%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57571&headline=Man%20denies%20importing%20drug&sectionIs=News&searchyear=2020&cat=Crime" title="Man denies importing drug">Man denies importing drug</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-02">Wednesday, 02 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57574&headline=Man received £2,500 of cannabis&sectionIs=News&searchyear=2020" title="Man received £2,500 of cannabis">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Man received £2,500 of cannabis" src="/images/news/2020/86992044%5F89261328%5Fzziomram%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57574&headline=Man%20received%20%C2%A32%2C500%20of%20cannabis&sectionIs=News&searchyear=2020&cat=Crime" title="Man received £2,500 of cannabis">Man received £2,500 of cannabis</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-02">Wednesday, 02 September 2020</time> 
+		
+	
+			By <a href="mailto:newsdesk@iomtoday.co.im?subject=Article: Man received £2,500 of cannabis">A Reporter</a>
+		
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+	
+		<header class="teaser-noimage">
+	
+    
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57554&headline=Fisherman%20who%20kicked%20out%20at%20police%20officer%20ends%20up%20in%20court&sectionIs=News&searchyear=2020&cat=Crime" title="Fisherman who kicked out at police officer ends up in court">Fisherman who kicked out at police officer ends up in court</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-02">Wednesday, 02 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57569&headline=Lying drunk on pavement costs 61-year-old man dear&sectionIs=News&searchyear=2020" title="Lying drunk on pavement costs 61-year-old man dear">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Lying drunk on pavement costs 61-year-old man dear" src="/images/news/2020/88636281%5F89261313%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57569&headline=Lying%20drunk%20on%20pavement%20costs%2061%2Dyear%2Dold%20man%20dear&sectionIs=News&searchyear=2020&cat=Crime" title="Lying drunk on pavement costs 61-year-old man dear">Lying drunk on pavement costs 61-year-old man dear</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-09-01">Tuesday, 01 September 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57481&headline=Burglar stole cash from coffee shop&sectionIs=News&searchyear=2020" title="Burglar stole cash from coffee shop">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Burglar stole cash from coffee shop" src="/images/news/2020/88636279%5F89254947%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57481&headline=Burglar%20stole%20cash%20from%20coffee%20shop&sectionIs=News&searchyear=2020&cat=Crime" title="Burglar stole cash from coffee shop">Burglar stole cash from coffee shop</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-31">Monday, 31 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57505&headline=Drink driver was seen on the wrong side of the road&sectionIs=News&searchyear=2020" title="Drink driver was seen on the wrong side of the road">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Drink driver was seen on the wrong side of the road" src="/images/news/2020/88636283%5F89258995%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57505&headline=Drink%20driver%20was%20seen%20on%20the%20wrong%20side%20of%20the%20road&sectionIs=News&searchyear=2020&cat=Crime" title="Drink driver was seen on the wrong side of the road">Drink driver was seen on the wrong side of the road</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-30">Sunday, 30 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57462&headline=VAT charges on septuagenarians are discharged&sectionIs=News&searchyear=2020" title="VAT charges on septuagenarians are discharged">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="VAT charges on septuagenarians are discharged" src="/images/news/2020/88636288%5F89255093%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57462&headline=VAT%20charges%20on%20septuagenarians%20are%20discharged&sectionIs=News&searchyear=2020&cat=Crime" title="VAT charges on septuagenarians are discharged">VAT charges on septuagenarians are discharged</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-30">Sunday, 30 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57504&headline=Drunk and disorderly man sentenced&sectionIs=News&searchyear=2020" title="Drunk and disorderly man sentenced">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Drunk and disorderly man sentenced" src="/images/news/2020/88636288%5F89258990%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57504&headline=Drunk%20and%20disorderly%20man%20sentenced&sectionIs=News&searchyear=2020&cat=Crime" title="Drunk and disorderly man sentenced">Drunk and disorderly man sentenced</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-29">Saturday, 29 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57475&headline=Shoplifter targeted booze&sectionIs=News&searchyear=2020" title="Shoplifter targeted booze">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Shoplifter targeted booze" src="/images/news/2020/88636288%5F89246687%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57475&headline=Shoplifter%20targeted%20booze&sectionIs=News&searchyear=2020&cat=Crime" title="Shoplifter targeted booze">Shoplifter targeted booze</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-29">Saturday, 29 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57461&headline=Man denies assault on prison officer&sectionIs=News&searchyear=2020" title="Man denies assault on prison officer">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Man denies assault on prison officer" src="/images/news/2020/88636283%5F89254971%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57461&headline=Man%20denies%20assault%20on%20prison%20officer&sectionIs=News&searchyear=2020&cat=Crime" title="Man denies assault on prison officer">Man denies assault on prison officer</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-29">Saturday, 29 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57463&headline=Swearing at a man in Strand Street costs offender a fine&sectionIs=News&searchyear=2020" title="Swearing at a man in Strand Street costs offender a fine">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Swearing at a man in Strand Street costs offender a fine" src="/images/news/2020/88636283%5F89255202%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57463&headline=Swearing%20at%20a%20man%20in%20Strand%20Street%20costs%20offender%20a%20fine&sectionIs=News&searchyear=2020&cat=Crime" title="Swearing at a man in Strand Street costs offender a fine">Swearing at a man in Strand Street costs offender a fine</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-29">Saturday, 29 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57453&headline=Cafe worker who kicked police officer could be sent to prison&sectionIs=News&searchyear=2020" title="Cafe worker who kicked police officer could be sent to prison">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Cafe worker who kicked police officer could be sent to prison" src="/images/news/2020/88636288%5F89246728%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57453&headline=Cafe%20worker%20who%20kicked%20police%20officer%20could%20be%20sent%20to%20prison&sectionIs=News&searchyear=2020&cat=Crime" title="Cafe worker who kicked police officer could be sent to prison">Cafe worker who kicked police officer could be sent to prison</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-29">Saturday, 29 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57472&headline=Offender tried to bring cannabis into the island&sectionIs=News&searchyear=2020" title="Offender tried to bring cannabis into the island">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Offender tried to bring cannabis into the island" src="/images/news/2020/88636288%5F89246607%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57472&headline=Offender%20tried%20to%20bring%20cannabis%20into%20the%20island&sectionIs=News&searchyear=2020&cat=Crime" title="Offender tried to bring cannabis into the island">Offender tried to bring cannabis into the island</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-28">Friday, 28 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+    
+    
+
+
+
+	<article class="story story--list">
+
+
+	
+    
+
+		<figure class="story__image-holder mod-list-view">
+			
+			<a href="article.cfm?id=57488&headline=Paedophile jail term protest to be held outside courts&sectionIs=News&searchyear=2020" title="Paedophile jail term protest to be held outside courts">
+			
+		        
+				<div class="u-img-crop">
+					<img alt="Paedophile jail term protest to be held outside courts" src="/images/news/2020/88636288%5F89251398%5Fdk170502%2EJPG">
+				</div>
+		        
+			</a>
+		</figure>
+	
+	
+	<header class="teaser-hasimage u-clearfix">
+
+
+	
+
+
+			
+	<!-- main title -->
+	<h2 class="header-xl"><a href="article.cfm?id=57488&headline=Paedophile%20jail%20term%20protest%20to%20be%20held%20outside%20courts&sectionIs=News&searchyear=2020&cat=Crime" title="Paedophile jail term protest to be held outside courts">Paedophile jail term protest to be held outside courts</a></h2> 
+	                    
+	                   
+	
+	<p class="pfont-xsmall">
+		<time pubdate datetime="2020-08-27">Thursday, 27 August 2020</time> 
+		
+	
+			&middot; <a href="archive.cfm?sectionIs=News&cat=Crime">Crime</a> 
+			
+
+<br>
+
+
+
+	
+	</p>
+  	         
+            
+
+	
+	
+	</header>
+	
+</article>
+
+ 
+<!-- list reults loop all other results END /--> 
+
+
+
+<div class="archive">
+<div class="archive-search border-tblr u-border-box background-dark text-light">
+	
+	<h3 class="header-m">Can't find what you are looking for?</h3>
+	
+	<form name="form" id="form" action="search.cfm?sectionIs=search" method="post" class="header-search" onsubmit="return _CF_checkform(this)">
+		<fieldset>
+			<input name="mainSearchEntry" id="mainSearchEntry"  type="text" maxlength="30"  class="header-search__input u-border-box"  placeholder="Search"  /> <input name="main-search__button" id="main-search__button"  type="submit" value="Go" class="header-search__submit header-search__submit"  />
+		</fieldset>
+	</form>
+	
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="list-number__container">
+<h3 class="header-m">More News - All categories</h3>
+
+
+	
+	
+    
+    
+
+
+<dl class="list-number list-number__columns">
+	
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57566&headline=A%20credit%20to%20themselves%20and%20the%20constabulary&sectionIs=News&searchyear=2020" title="A credit to themselves and the constabulary">A credit to themselves and the constabulary</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57622&headline=Weather%3A%20Mostly%20dry%20with%20spells%20of%20sunshine&sectionIs=News&searchyear=2020" title="Weather: Mostly dry with spells of sunshine">Weather: Mostly dry with spells of sunshine</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57553&headline=Perkins%20calls%20for%20government%20to%20think%20about%20setting%20up%20its%20own%20airline&sectionIs=News&searchyear=2020" title="Perkins calls for government to think about setting up its own airline">Perkins calls for government to think about setting up its own airline</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57624&headline=Send%20your%20children%20to%20school%20%2D%20or%20else%21&sectionIs=News&searchyear=2020" title="Send your children to school - or else!">Send your children to school - or else!</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57555&headline=Mum%20and%20son%3A%20We%27ve%20not%20been%20involved%20in%20dealing%20drugs&sectionIs=News&searchyear=2020" title="Mum and son: We've not been involved in dealing drugs">Mum and son: We've not been involved in dealing drugs</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57621&headline=Patient%20transferred%20to%20UK%20hospital%20via%20helicopter&sectionIs=News&searchyear=2020" title="Patient transferred to UK hospital via helicopter">Patient transferred to UK hospital via helicopter</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57561&headline=Big%20day%20for%20pier%20as%20first%20of%20sponsors%27%20plaques%20is%20fixed&sectionIs=News&searchyear=2020" title="Big day for pier as first of sponsors' plaques is fixed">Big day for pier as first of sponsors' plaques is fixed</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57560&headline=Manx%20graduate%20is%20to%20show%20at%20Fashion%20Week&sectionIs=News&searchyear=2020" title="Manx graduate is to show at Fashion Week">Manx graduate is to show at Fashion Week</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57564&headline=A%20short%20term%20but%20plenty%20to%20consider&sectionIs=News&searchyear=2020" title="A short term but plenty to consider">A short term but plenty to consider</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57567&headline=Delayed%20scheme%20should%20solve%20housing%20needs&sectionIs=News&searchyear=2020" title="Delayed scheme should solve housing needs">Delayed scheme should solve housing needs</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57562&headline=Tributes%20paid%20to%20Gwen%20Watterson&sectionIs=News&searchyear=2020" title="Tributes paid to Gwen Watterson">Tributes paid to Gwen Watterson</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57568&headline=Man%20refused%20to%20get%20up%20off%20bus%20floor&sectionIs=News&searchyear=2020" title="Man refused to get up off bus floor">Man refused to get up off bus floor</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57596&headline=Prom%20to%20return%20to%20two%20way%20traffic&sectionIs=News&searchyear=2020" title="Prom to return to two way traffic">Prom to return to two way traffic</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57570&headline=Offender%20told%20police%3A%20%27I%20earn%20more%20than%20all%20of%20you%20together%2E%20%20I%27ll%20see%20you%20again%2E%27&sectionIs=News&searchyear=2020" title="Offender told police: 'I earn more than all of you together.  I'll see you again.'">Offender told police: 'I earn more than all of you together.  I'll see you again.'</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57513&headline=Sulby%20shop%20sold%20%2D%20but%20to%20whom%3F&sectionIs=News&searchyear=2020" title="Sulby shop sold - but to whom?">Sulby shop sold - but to whom?</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57571&headline=Man%20denies%20importing%20drug&sectionIs=News&searchyear=2020" title="Man denies importing drug">Man denies importing drug</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57574&headline=Man%20received%20%C2%A32%2C500%20of%20cannabis&sectionIs=News&searchyear=2020" title="Man received £2,500 of cannabis">Man received £2,500 of cannabis</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57592&headline=Co%2Dop%20to%20support%20community%20projects&sectionIs=News&searchyear=2020" title="Co-op to support community projects">Co-op to support community projects</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57591&headline=Mice%20to%20see%20you%20again&sectionIs=News&searchyear=2020" title="Mice to see you again">Mice to see you again</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57590&headline=Weather%3A%20Wet%20and%20windy&sectionIs=News&searchyear=2020" title="Weather: Wet and windy">Weather: Wet and windy</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57554&headline=Fisherman%20who%20kicked%20out%20at%20police%20officer%20ends%20up%20in%20court&sectionIs=News&searchyear=2020" title="Fisherman who kicked out at police officer ends up in court">Fisherman who kicked out at police officer ends up in court</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57576&headline=Protesters%20say%3A%20Lock%20them%20up%20for%20longer&sectionIs=News&searchyear=2020" title="Protesters say: Lock them up for longer">Protesters say: Lock them up for longer</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57558&headline=School%20boosts%20green%20credentials&sectionIs=News&searchyear=2020" title="School boosts green credentials">School boosts green credentials</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57589&headline=Prom%20residents%20given%20parking%20spaces&sectionIs=News&searchyear=2020" title="Prom residents given parking spaces">Prom residents given parking spaces</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57569&headline=Lying%20drunk%20on%20pavement%20costs%2061%2Dyear%2Dold%20man%20dear&sectionIs=News&searchyear=2020" title="Lying drunk on pavement costs 61-year-old man dear">Lying drunk on pavement costs 61-year-old man dear</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57575&headline=%C2%A31%2E2m%20MRI%20scanner%20to%20be%20installed%20at%20Noble%27s&sectionIs=News&searchyear=2020" title="£1.2m MRI scanner to be installed at Noble's">£1.2m MRI scanner to be installed at Noble's</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57578&headline=School%20leaders%20to%20resume%20action&sectionIs=News&searchyear=2020" title="School leaders to resume action">School leaders to resume action</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57556&headline=In%20this%20week%27s%20Isle%20of%20Man%20Examiner%3A%20Protesters%20demand%20harsher%20sentences%20for%20paedophiles&sectionIs=News&searchyear=2020" title="In this week's Isle of Man Examiner: Protesters demand harsher sentences for paedophiles">In this week's Isle of Man Examiner: Protesters demand harsher sentences for paedophiles</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57557&headline=Weather%3A%20Cloudy%20with%20light%20rain%20possible&sectionIs=News&searchyear=2020" title="Weather: Cloudy with light rain possible">Weather: Cloudy with light rain possible</a>
+	</dt>
+
+	<dt class="pfont-lead">
+		<a href="article.cfm?id=57486&headline=Allan%20and%20Mary%20win%20Isle%20of%20Man%20Examiner%20competition&sectionIs=News&searchyear=2020" title="Allan and Mary win Isle of Man Examiner competition">Allan and Mary win Isle of Man Examiner competition</a>
+	</dt>
+
+</dl>
+</div>
+
+
+
+
+
+ 	
+
+
+
+
+</section>	
+	
+	
+	
+
+
+<aside class="b-content__side">
+	
+
+	
+
+
+	<div class="ad-mpu__aside">
+		<iframe width="300" src="https://www.youtube.com/embed/pbFm44KQPXc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+
+
+	
+
+
+
+
+<div class="ad-mpu__aside">
+
+	
+
+	    <div id="div-gpt-ad-1570714375015-2">
+	        <script>
+	        googletag.cmd.push(function() {
+	        googletag.display("div-gpt-ad-1570714375015-2");
+	        });
+	        </script>
+	    </div>
+		
+	
+
+</div>
+
+
+
+
+
+	<!-- sidebar product -->	
+		<div class="prod u-clearfix"><a href="http://www.iomtoday.co.im/archive.cfm?sectionIs=News&cat=Destination%20Isle%20of%20Man"></a>	
+			<div class="prod__icon prod__icon--promote"></div>
+			<h4 class="header-s">Destination Isle of Man</h4>
+			<p class="pfont-small">Your Island, your stories</p>	
+		</div>
+	<!--/sidebar product -->
+	
+
+	<!-- sidebar product -->	
+		<div class="prod u-clearfix"><a href="advertise.cfm"></a>	
+			<div class="prod__icon prod__icon--promote"></div>
+			<h4 class="header-s">Advertise</h4>
+			<p class="pfont-small">Ask about advertising on our websites</p>	
+		</div>
+	<!--/sidebar product -->
+	
+
+	<!-- sidebar product -->	
+		<div class="prod u-clearfix"><a href="subscribe.cfm"></a>	
+			<div class="prod__icon prod__icon--subscribe"></div>
+			<h4 class="header-s">Subscribe</h4>
+			<p class="pfont-small">Digital or printed subscriptions</p>	
+		</div>
+	<!--/sidebar product -->
+
+	
+	<!-- sidebar product -->	
+		<div class="prod u-clearfix"><a href="your-story.cfm"></a>	
+			<div class="prod__icon prod__icon--story"></div>
+			<h4 class="header-s">Your Story</h4>
+			<p class="pfont-small">Have a story you want to share?</p>	
+		</div>
+	<!--/sidebar product -->	
+
+	
+
+
+	
+
+	
+<div class="ad-mpu__aside">
+
+	
+
+	    <div id="div-gpt-ad-1570714375015-3" style="width: 300px; height: 250px">
+	        <script>
+	        googletag.cmd.push(function() {
+	        googletag.display("div-gpt-ad-1570714375015-3");
+	        });
+	        </script>
+	    </div>
+
+	
+
+</div>
+
+
+
+		
+			<!-- sidebar product -->	
+				<div class="prod u-clearfix"><a href="/jobs.cfm" target="_blank"></a>	
+					<div class="prod__icon prod__icon--job"></div>
+					<h4 class="header-s">Find a Job</h4>
+					<p class="pfont-small">Start the search for your new career</p>	
+				</div>
+			<!--/sidebar product -->
+		
+
+
+
+
+			<!-- sidebar product -->	
+					<div class="prod u-clearfix"><a href="/archive.cfm?sectionIs=News&cat=Environment"></a>	
+						<div class="prod__icon prod__icon--weather"></div>
+						<h4 class="header-s">Weather</h4>
+						<p class="pfont-small">Weather updates in your region</p>	
+					</div>
+			<!--/sidebar product -->
+	
+
+			<!-- sidebar product -->	
+				<div class="prod u-clearfix"><a href="http://bit.ly/1wYIkD2" target="_blank"></a>	
+					<div class="prod__icon prod__icon--local"></div>
+					<h4 class="header-s">Support Local</h4>
+					<p class="pfont-small">Watch our local news video</p>	
+				</div>
+			<!--/sidebar product -->
+					
+
+	
+
+		
+				<!-- sidebar product -->	
+					<div class="prod u-clearfix"><a href="http://iomtoday.newsprints.co.uk" target="_blank"></a>	
+						<div class="prod__icon prod__icon--photos"></div>
+						<h4 class="header-s">Buy Photos</h4>
+						<p class="pfont-small">Order photos from our newspaper</p>	
+					</div>
+				<!--/sidebar product -->
+		
+
+
+
+<div class="ad-mpu__aside">
+
+		
+
+	    <div id="div-gpt-ad-1570714375015-4" style="width: 300px; height: 250px">
+	        <script>
+	        googletag.cmd.push(function() {
+	        googletag.display("div-gpt-ad-1570714375015-4");
+	        });
+	        </script>
+	    </div>
+		
+	
+
+</div>
+
+
+
+	
+	<div id="taboola-right-rail-thumbnails"></div>
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({
+			mode: 'thumbnails-rr-a',
+			container: 'taboola-right-rail-thumbnails',
+			placement: 'Right Rail Thumbnails',
+			target_type: 'mix'
+		});
+	</script>
+	
+
+	
+	<!-- 1xl Tindle Newspapers - 300x600 -->
+	<div id="onscroll-halfpage">
+	    
+	    
+	    	<script src="//tags.onscroll.com/f379844d-bd14-452f-8bbb-d32d0e2ea97f/tag.min.js" async defer></script>
+	    
+	    
+	    <script type="text/javascript">
+	        new OnScroll.Container();
+	    </script>
+	</div>
+	
+
+
+
+
+	
+</aside>
+	
+
+
+</div><!-- /b-content -->	
+
+
+
+
+
+
+
+
+
+
+</div><!-- /wrapper -->
+
+	<!-- new beta -->
+		<!-- FOOTER -->
+	
+	<footer role="complimentary" class="page-foot background-dark border-top u-full-width u-clearfix">
+	
+	<!-- /// LINKS /// -->
+	<div class="container u-clearfix">
+		
+		
+		<div class="page-foot__block page-foot__block--1">
+			<h3 class="header-m">Are you missing customers?</h3>
+			<p class="pfont-small">You could reach more customers with our print and online ad packages.</p>
+			
+			<img class="ad-splash__visual" src="/coreWebFiles/assets/img/advertise-digital-platforms.png">
+			
+
+			
+			<div class="ad-splash__detail u-border-box">
+				<h3 class="header-m">Call now to see how we could help you</h3>
+				<ul class="page-foot__list u-clearfix">
+					<li>Tel: <strong><a href="tel:01624 695695">01624 695695</a></strong></li>
+					<li>Email: <a href="mailto:ads@iomtoday.co.im">ads@iomtoday.co.im</a></li>
+				</ul>	
+			</div>
+			
+		</div>	
+		
+		
+		<div class="page-foot__block page-foot__block--2">
+			<h3 class="header-m">Explore</h3>
+			
+
+				<ul class="page-foot__list u-clearfix pfont">
+
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Arts">Arts</a></li>
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Business">Business</a></li>
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Charity">Charity</a></li>
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Community News">Community News</a></li>
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Crime">Crime</a></li>
+					
+
+					<li><a href="/archive.cfm?sectionIs=news">+ More News</a></li>
+				</ul>
+		</div>
+		
+		<div class="page-foot__block page-foot__block--3">
+			<h3 class="header-m">More</h3>
+				
+					
+					
+						
+				<ul class="page-foot__list u-clearfix pfont">
+
+					
+						<li><a href="/jobs.cfm" title="Jobs">
+								Jobs
+						</a></li>
+					
+						<li><a href="http://audioboom.com/channel/manxfootball" title="Manx Football Podcast">
+								Manx Football Podcast
+						</a></li>
+					
+						<li><a href="/archive.cfm?sectionIs=News&cat=Property" title="Property">
+								Property
+						</a></li>
+					
+						<li><a href="http://iomtoday.newsprints.co.uk" title="Buy Photos">
+								Buy Photos
+						</a></li>
+					
+						<li><a href="https://www.legacy.com/obituaries/iomtoday-uk" title="Family Notices">
+								Family Notices
+						</a></li>
+					
+						<li><a href="http://www.excellence-awards.im" title="Awards for Excellence ">
+								Awards for Excellence 
+						</a></li>
+					
+		
+				</ul>
+		</div>	
+		
+					
+			
+		<div class="page-foot__block page-foot__block--4 u-border-box">
+			
+			<h3 class="header-m">Contact Us</h3>
+			
+			<ul class="page-foot__list u-clearfix pfont">
+				<li>
+					Publishing House,<br> Peel Road,<br> Douglas,<br> Isle of Man, UK,<br> IM1 5ED
+				</li>
+			
+			<li>Tel: <a href="tel:01624 695695">01624 695695</a></li>
+			
+			<li>Email: <a href="mailto:newsdesk@iomtoday.co.im">newsdesk@iomtoday.co.im</a></li>
+			</ul>
+			
+
+					
+
+			
+		</div>	
+			
+
+		<div class="page-foot__block page-foot__block--5">
+			
+			<h3 class="header-m">Connect</h3>
+			
+			<div class="page-foot__social u-clearfix">
+
+				
+					<a href="https://twitter.com/iomnewspapers" target="_blank"><div class="page-foot__social-icon share-icon-twitter"></div></a>
+				
+					<a href="https://www.facebook.com/iomnewspapers/" target="_blank"><div class="page-foot__social-icon share-icon-facebook"></div></a>
+				
+
+			</div>
+			
+		</div>	
+		
+	
+		
+	</div><!--/CONTAINER-->
+	<!--/LINKS-->
+
+
+<!-- /// BRANDING /// -->
+	
+		<div class="page-foot__group u-clearfix">
+			<div class="container">
+			
+			<a style="display:inline;float:right;" href="/complaints.cfm"><img alt="ipso" src="/images/IPSO_Mark_White.png"></a>
+			<a href="http://www.tindlenews.co.uk/"><img alt="tindle newspapers crest" class="page-foot__tcrest" src="/coreWebFiles/assets/img/tindle_newspaper_crest.png"></a>
+			<h3 class="header-s">Tindle Newspapers Ltd.</h3>
+			<p class="pfont-small"><strong>Independent Family-Owned Newspapers</strong>
+			 &middot; 
+			Copyright &amp; Trade Mark Notice &amp; 2013 - 2020 <br />Owned or licensed to <a href="http://www.tindlenews.co.uk">Tindle Newspapers Ltd.</a> &middot; <a href="terms.cfm">T &amp; C</a> &middot; <a href="privacy.cfm">Privacy Policy</a> &middot; <a href="complaints.cfm">Complaints</a> &middot; <a href="javascript:window.cmpConfig.methods.summon()">Review  Consent  Preferences</a></p>
+
+			
+
+		
+	</div>
+	</div><!--/CONTAINER-->
+	
+	</footer>	
+
+
+
+
+    <script src="/coreWebFiles/assets/js/pikaday.js"></script>
+    <script>
+
+    var picker = new Pikaday(
+    {
+        field: document.getElementById('datepicker'),
+        firstDay: 1,
+        minDate: new Date(),
+        maxDate: new Date(2020, 12, 31),
+        yearRange: [2000,2020]
+    });
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+<script src='/coreWebFiles/assets/bxSlider/fullHeight.js'></script>
+<script src='/coreWebFiles/assets/bxSlider/jquery.bxslider.min.js'></script>
+<script src='/coreWebFiles/assets/js/placeHolderText.js'></script>
+
+<script>
+$(document).ready(function(){
+  $('#home-slider').bxSlider({ // specifically for home page columists
+    slideWidth: 5000,
+    minSlides: 4,
+    maxSlides: 22,
+		ticker: false,
+		speed: 2000,
+		auto: true,
+		pause: 2800,
+		moveSlides: 2,
+		preloadImages: true,
+    pager: false,
+    nextSelector: '#slider-next',
+		prevSelector: '#slider-prev',
+		nextText: 'NEXT &#8250;',
+		prevText: '&#8249; PREV',
+    slideMargin: 0  });
+});
+
+$(document).ready(function(){$("#storyGallery").bxSlider({adaptiveHeight:!0,captions:!0,mode:"fade"})});
+</script>	
+
+
+
+
+
+
+<div style="height:0;overflow:hidden;">
+
+
+</div>
+
+
+
+
+
+
+<script>
+ADTECH.executeQueue();
+</script>
+
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script>
+
+
+
+
+<style>
+
+.ad-leaderboard {
+	text-align: center;
+	/*max-width: 960px;*/
+}
+.ad-leaderboard div,
+.ad-leaderboard canvas,
+.ad-leaderboard iframe,
+.ad-leaderboard img {
+	margin: 0 auto;
+	position: relative;
+	left: auto;
+	text-align: center;
+}
+
+</style>	
+
+ 
+
+
+
+
+	<script type="text/javascript">
+	  var _sf_async_config = { uid: 65613, domain: 'iomtoday.co.im', useCanonical: true };
+	  (function() {
+	    function loadChartbeat() {
+	      window._sf_endpt = (new Date()).getTime();
+	      var e = document.createElement('script');
+	      e.setAttribute('language', 'javascript');
+	      e.setAttribute('type', 'text/javascript');
+	      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+	      document.body.appendChild(e);
+	    };
+	    var oldonload = window.onload;
+	    window.onload = (typeof window.onload != 'function') ?
+	      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	  })();
+	</script>
+
+
+
+
+
+<script src="//rum-static.pingdom.net/pa-5aa0feb846534f000700042a.js" async></script>
+
+<script>
+$(document).ready(function() {
+$('.u-img-crop').each(
+    function() {
+        var i = $(this).find('img');
+        if(i[0].clientHeight >= i[0].clientWidth) {
+            $(this).addClass('u-img-crop__tall');
+        }
+    }
+);
+});
+</script>
+
+
+
+
+
+</body>
+</html>
