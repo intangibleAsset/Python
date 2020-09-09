@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 import datetime
 
 def check_last_update(file_name):
-    """check_last_update(file_name)"""
+    """Check_last_update(file_name)."""
     file_stat = os.stat(file)
     mod_time = file_stat.st_mtime
     difference = ((time.time() - mod_time) / 60)
     return difference
 
 def read_from_file(file_name):
-    """read_from_file(file_name)"""
+    """Read_from_file(file_name)."""
     with open(file_name,"r") as file:
         amount = file.read()
     return(amount)
