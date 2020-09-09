@@ -1,14 +1,7 @@
 import pickle
 import datetime
 
-def accessed_in_last_hour():
-    now = datetime.datetime.now()
-    last_accessed_time = file.unpickle_object('accessedTime')
-    if last_accessed_time < (now - datetime.timedelta(minutes=60)):
-        file.pickle_object(now,'accessedTime')
-        return(False)
-    else:
-        return(True)
+
 
 def pickle_object(object, file_name):
     """Pickle object : pickle_object(object, file_name)."""
@@ -33,3 +26,12 @@ def write_to_file(data, file_name):#writes the file contents to the file overwri
     """Write to file : write_to_file(data, file_name)."""
     with open(file_name,"w") as file:
         file.write(data)
+
+def accessed_in_last_hour():
+    now = datetime.datetime.now()
+    last_accessed_time = unpickle_object('accessedTime')
+    if last_accessed_time < (now - datetime.timedelta(minutes=60)):
+        pickle_object(now,'accessedTime')
+        return(False)
+    else:
+        return(True)
