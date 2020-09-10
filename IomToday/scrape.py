@@ -24,6 +24,6 @@ def get_article_text(link):
     text.append(article.h1.getText())
     p = article.find_all('p')
     for all in p:
-        text.append(all.getText())        
+        text.append(all.getText())
 
     return(text)
