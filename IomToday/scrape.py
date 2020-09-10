@@ -21,9 +21,8 @@ def get_article_text(link):
     soup = BeautifulSoup(page,'lxml')
     text = []
     article = soup.find('article', class_ = "story u-clearfix")
-    text.append(article.h1.getText())
+    #text.append(article.h1.getText())
     p = article.find_all('p')
-    for all in p:
+    for all in p[1:]:
         text.append(all.getText())
-
     return(text)

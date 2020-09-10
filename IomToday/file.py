@@ -1,8 +1,6 @@
 import pickle
 import datetime
 
-
-
 def pickle_object(object, file_name):
     """Pickle object : pickle_object(object, file_name)."""
     outfile = open(file_name,'wb')
