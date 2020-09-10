@@ -5,15 +5,13 @@ import file
 import datetime
 
 
-print(file.accessed_in_last_hour())
+if file.accessed_in_last_hour():
+    html = file.read_from_file('page')
+    print('reading from file')
+else:
+    html = scrape.get_page('http://www.iomtoday.co.im/archive.cfm?sectionIs=News&cat=Crime')
+    print('reading live sight and saving to file system')
 
+crime_links = scrape.get_crime_links(html)
 
-#url = 'http://www.iomtoday.co.im/archive.cfm?sectionIs=News&cat=Crime'
-
-#now = datetime.datetime.now()
-#last_accessed_time = file.unpickle_object('accessedTime')
-#if last_accessed_time < (now - datetime.timedelta(seconds=30)):
-#    file.pickle_object(now,'accessedTime')
-#    print('accessed over thirty seconds ago')
-#else:
-#    print('accessed less than thirty seconds ago')
+print(scrape.get_article_text(crime_links[0]))
