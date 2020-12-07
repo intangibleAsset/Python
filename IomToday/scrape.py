@@ -19,10 +19,10 @@ def get_crime_links(page):
 def get_article_text(link):
     page = get_page(link)
     soup = BeautifulSoup(page,'lxml')
-    text = []
+    text = ""
     article = soup.find('article', class_ = "story u-clearfix")
     #text.append(article.h1.getText())
     p = article.find_all('p')
     for all in p[1:]:
-        text.append(all.getText())
+        text+=all.getText()+" "
     return(text)
